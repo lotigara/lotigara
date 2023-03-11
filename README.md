@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lotigara
-- 👀 I’m interested in developing MC mods on Fabric!
-- 🌱 I’m currently learning Fabric MC mods
+- 👀 I’m interested in developing games on Unity!
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on [EMPTY]
 - 📫 How to reach me: not spaming
 - Gender: male
