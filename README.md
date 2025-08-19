@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: <mailto:lotigara@lotigara.ru> (e-mail) or <xmpp:lotigara@lotigara.ru> (XMPP/Jabber)
 - ❤️ Sex: male
-- 🌍 Region: Russian Federation, komence Esperantujo
+- 🌍 Region: Russian Federation, komence de Esperantujo
 <!---
 lotigara/lotigara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
