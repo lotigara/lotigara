@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lotigara
-- 👀 I’m interested in system administration and Free Software (also check my Codeberg account: [codeberg.org/lotigara](https://codeberg.org/lotigara))
+- 👀 I’m interested in system administration and Free Software (BTW check my Codeberg account: <https://codeberg.org/lotigara> and personal Git server: <https://git.lotigara.ru>)
 - 🌱 I’m currently learning...
 <details>
   
